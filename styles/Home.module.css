@@ -1,0 +1,166 @@
+.main {
+
+
+
+}
+
+.nav{
+  display: flex;
+  gap: 50px;
+  font-size: 20px;
+  margin-top: 20px;
+  margin: 60px;
+}
+
+.yuh{
+  text-decoration: none;
+  color: black;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: start;
+}
+
+.name{
+  font-size: 40px;
+  display: flex;
+  justify-content: end;
+  position: absolute;
+ right: 20px;
+ top: -10px;
+ margin: 60px;
+}
+
+.me{
+  display: flex;
+justify-content: center;
+}
+
+.myname{
+  display: flex;
+  justify-content: center;
+  gap: 600px;
+  font-size: 60px;
+ position: relative;
+ top: -300px;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  margin-top: -130px;
+  font-size: 40px;
+}
+
+.projects{
+  display: flex;
+  justify-content: center;
+  font-size: 54px;
+}
+
+.illustration{
+ display: flex;
+ justify-content: center;
+ margin-bottom: 70px;
+}
+
+.illtitle{
+  margin: 50px;
+  font-size: 48px;
+}
+
+.tulips{
+  filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-webkit-transition: all 1s ease;
+}
+
+.tulips:hover{
+filter: grayscale(0%);
+filter: gray;
+-webkit-filter: grayscale(0%);
+filter: none;
+transition: 1s ease;
+}
+
+.tulip{
+display: flex;
+justify-content: center;
+margin-top: 40px;
+}
+
+.piano2{
+display: grid;
+}
+
+.group{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.me2{
+  margin-top: 150px;
+display: flex;
+justify-content: center;
+margin-right: 200px;
+}
+
+.aboutme{
+  font-size: 48px;
+margin-left: 50px;
+}
+
+.caption{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 50px;
+  margin-top: 20px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.contact{
+  margin-top: 50px;
+  font-size: 48px;
+ text-align: center;
+}
+
+.email{
+  margin-top: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.contactme{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  margin-top: 20px;
+margin-bottom: 50px;
+  text-align: center;
+}
+
+.line{
+margin: 80px;
+
+}
+
+
+.tulipss{
+  margin-top: 100px;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 1s ease;
+  }
+  
+  .tulipss:hover{
+  filter: grayscale(0%);
+  filter: gray;
+  -webkit-filter: grayscale(0%);
+  filter: none;
+  transition: 1s ease;
+}
+
+.bui{
+  margin-right: 100px;
+}
